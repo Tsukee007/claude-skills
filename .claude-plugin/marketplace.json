@@ -1,0 +1,14 @@
+{
+  "name": "tsukee-skills",
+  "description": "Bibliothèque personnelle de skills Claude Code, à installer à la demande dans mes projets",
+  "owner": {
+    "name": "Tsukee"
+  },
+  "plugins": [
+    {
+      "name": "outils",
+      "source": "./plugins/outils",
+      "description": "Skills transverses : contrôle de conformité Claude Code, et les suivants"
+    }
+  ]
+}
