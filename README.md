@@ -13,7 +13,7 @@ Mes skills Claude Code, rangés dans un plugin que j'installe à la demande dans
 Dans le terminal du Codespace du projet, à la racine :
 
 ```bash
-claude plugin marketplace add ton-pseudo-github/claude-skills --scope project
+claude plugin marketplace add Tsukee007/claude-skills --scope project
 claude plugin install outils@tsukee-skills --scope project
 git add .claude/settings.json && git commit -m "Ajoute la bibliothèque de skills" && git push
 ```
